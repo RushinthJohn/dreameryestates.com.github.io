@@ -1,2 +1,3 @@
-# dreameryestates.com.github.io
-Dreamery Estates website repo
+# Dreamery Estates website repo
+
+This repo contains Dreamery Estates's HTML files.
